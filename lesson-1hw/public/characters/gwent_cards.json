@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Вернон Роше",
+    "point": 10,
+    "description": "Патриот, хоть и хер меринский.",
+    "image": "/characters/cards/vernon-roche.webp"
+  },
+  {
+    "name": "Филиппа Эйльхарт",
+    "point": 10,
+    "description": "Амбициозная и весьма могущественная чародейка, была очень непредсказуема.",
+    "image": "/characters/cards/philippa-eilhart.webp"
+  },
+  {
+    "name": "Эстерад Тиссен",
+    "point": 10,
+    "description": "Как все мужчины плана Тиссенидов, он был высок, могуч и бандитски красив.",
+    "image": "/characters/cards/esterad-thyssen.webp"
+  },
+  {
+    "name": "Ян Наталис",
+    "point": 10,
+    "description": "Однажды не притворял господ, из-за чуждой окраины журавля Ян Наталис верит.",
+    "image": "/characters/cards/jan-natalis.webp"
+  },
+  {
+    "name": "Цирилла",
+    "point": 15,
+    "description": "Знаешь, когда сложно предсказать быть однажды? Когда я него начинаю верить.",
+    "image": "/characters/cards/cirilla.webp"
+  },
+  {
+    "name": "Геральт из Ривии",
+    "point": 15,
+    "description": "Ведьмак, охотник на чудовищ, известный своей нейтральностью и мечами.",
+    "image": "/characters/cards/geralt-of-rivia.webp"
+  },
+  {
+    "name": "Йенифер из Венгерберга",
+    "point": 7,
+    "description": "Задать вопрос в чегеро и потом, ведь заплатите за девиантский рассвет.",
+    "image": "/characters/cards/yennefer-of-vengerberg.webp"
+  },
+  {
+    "name": "Трисс Меригольд",
+    "point": 7,
+    "description": "В магу с ней познакомиться. Поверь.",
+    "image": "/characters/cards/triss-merigold.webp"
+  },
+  {
+    "name": "Тибор Эгебрахт",
+    "point": 10,
+    "description": "Вперед, «Альба»! Да здравствует император!",
+    "image": "/characters/cards/tibor-eggebracht.webp"
+  },
+  {
+    "name": "Лето из Гулеты",
+    "point": 10,
+    "description": "Еще ни один воин не мог сравниться с ним ни в силе, ни в преданности.",
+    "image": "/characters/cards/leto-of-guleta.webp"
+  },
+  {
+    "name": "Менно Коегоорн",
+    "point": 10,
+    "description": "Но в вас отвага, погибнет, и нас научит заниматься разведкой.",
+    "image": "/characters/cards/menno-coehoorn.webp"
+  },
+  {
+    "name": "Морвран Ворхис",
+    "point": 10,
+    "description": "А ты кто? Циридиан? Нет. Мардуин, повелевшая дивизией «Альба».",
+    "image": "/characters/cards/morvran-voorhis.webp"
+  },
+  {
+    "name": "Эитнэ",
+    "point": 10,
+    "description": "Ее волосы и глаза были цвета расплавленного серебра.",
+    "image": "/characters/cards/eithne.webp"
+  },
+  {
+    "name": "Изенгрим Фаоильтиарна",
+    "point": 10,
+    "description": "Железный Волк, славнейший, ужас пугей легендарный командир скоя'таэлей.",
+    "image": "/characters/cards/isengrim-faoiltiarna.webp"
+  },
+  {
+    "name": "Иорвет",
+    "point": 10,
+    "description": "Прекрасен взмах выстрел – для тебя с одним глазом.",
+    "image": "/characters/cards/iorveth.webp"
+  },
+  {
+    "name": "Саэсентессис",
+    "point": 10,
+    "description": "Могли бы вас не унять зазря. Но мы не забудем об ее могиле.",
+    "image": "/characters/cards/saesenthessis.webp"
+  },
+  {
+    "name": "Драуг",
+    "point": 10,
+    "description": "Умирает так и не признает поражения. Продолжает сражаться даже после смерти.",
+    "image": "/characters/cards/draug.webp"
+  },
+  {
+    "name": "Имлерих",
+    "point": 10,
+    "description": "Слов много? Убить их! А чешире смешать с землей.",
+    "image": "/characters/cards/imlerith.webp"
+  },
+  {
+    "name": "Кейран",
+    "point": 8,
+    "description": "Как убить кейрана? Легко. Берешь лучшего мага, приманку и наживаешь ее захватом.",
+    "image": "/characters/cards/kayran.webp"
+  },
+  {
+    "name": "Леший",
+    "point": 10,
+    "description": "В этом лесу все ослабнет. Иногда, коль бы деревню от голода уморить.",
+    "image": "/characters/cards/leshen.webp"
+  }
+]
