@@ -1,0 +1,25 @@
+.quiz {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 24px;
+  text-align: center;
+
+  &__options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  &__option {
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  &__hint {
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2e9e4f;
+  }
+}
