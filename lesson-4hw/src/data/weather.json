@@ -1,0 +1,530 @@
+{
+  "Москва": {
+    "temp": 12,
+    "description": "Облачно",
+    "icon": "☁",
+    "wind": 3,
+    "humidity": 50,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 9,
+        "icon": "☀"
+      },
+      {
+        "day": "Вт",
+        "temp": 12,
+        "icon": "☁"
+      },
+      {
+        "day": "Ср",
+        "temp": 15,
+        "icon": "🌧"
+      },
+      {
+        "day": "Чт",
+        "temp": 11,
+        "icon": "🌦"
+      },
+      {
+        "day": "Пт",
+        "temp": 14,
+        "icon": "❄"
+      },
+      {
+        "day": "Сб",
+        "temp": 10,
+        "icon": "☁"
+      },
+      {
+        "day": "Вс",
+        "temp": 13,
+        "icon": "☀"
+      }
+    ]
+  },
+  "Санкт-Петербург": {
+    "temp": 9,
+    "description": "Туманно",
+    "icon": "🌫",
+    "wind": 5,
+    "humidity": 57,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 7,
+        "icon": "☁"
+      },
+      {
+        "day": "Вт",
+        "temp": 10,
+        "icon": "🌧"
+      },
+      {
+        "day": "Ср",
+        "temp": 6,
+        "icon": "🌦"
+      },
+      {
+        "day": "Чт",
+        "temp": 9,
+        "icon": "❄"
+      },
+      {
+        "day": "Пт",
+        "temp": 12,
+        "icon": "☁"
+      },
+      {
+        "day": "Сб",
+        "temp": 8,
+        "icon": "☀"
+      },
+      {
+        "day": "Вс",
+        "temp": 11,
+        "icon": "☀"
+      }
+    ]
+  },
+  "Сочи": {
+    "temp": 24,
+    "description": "Солнечно",
+    "icon": "☀",
+    "wind": 7,
+    "humidity": 64,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 23,
+        "icon": "🌧"
+      },
+      {
+        "day": "Вт",
+        "temp": 26,
+        "icon": "🌦"
+      },
+      {
+        "day": "Ср",
+        "temp": 22,
+        "icon": "❄"
+      },
+      {
+        "day": "Чт",
+        "temp": 25,
+        "icon": "☁"
+      },
+      {
+        "day": "Пт",
+        "temp": 21,
+        "icon": "☀"
+      },
+      {
+        "day": "Сб",
+        "temp": 24,
+        "icon": "☀"
+      },
+      {
+        "day": "Вс",
+        "temp": 27,
+        "icon": "☁"
+      }
+    ]
+  },
+  "Казань": {
+    "temp": 11,
+    "description": "Дождливо",
+    "icon": "🌧",
+    "wind": 9,
+    "humidity": 71,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 11,
+        "icon": "🌦"
+      },
+      {
+        "day": "Вт",
+        "temp": 14,
+        "icon": "❄"
+      },
+      {
+        "day": "Ср",
+        "temp": 10,
+        "icon": "☁"
+      },
+      {
+        "day": "Чт",
+        "temp": 13,
+        "icon": "☀"
+      },
+      {
+        "day": "Пт",
+        "temp": 9,
+        "icon": "☀"
+      },
+      {
+        "day": "Сб",
+        "temp": 12,
+        "icon": "☁"
+      },
+      {
+        "day": "Вс",
+        "temp": 8,
+        "icon": "🌧"
+      }
+    ]
+  },
+  "Новосибирск": {
+    "temp": -5,
+    "description": "Снежно",
+    "icon": "❄",
+    "wind": 11,
+    "humidity": 78,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": -4,
+        "icon": "❄"
+      },
+      {
+        "day": "Вт",
+        "temp": -8,
+        "icon": "☁"
+      },
+      {
+        "day": "Ср",
+        "temp": -5,
+        "icon": "☀"
+      },
+      {
+        "day": "Чт",
+        "temp": -2,
+        "icon": "☀"
+      },
+      {
+        "day": "Пт",
+        "temp": -6,
+        "icon": "☁"
+      },
+      {
+        "day": "Сб",
+        "temp": -3,
+        "icon": "🌧"
+      },
+      {
+        "day": "Вс",
+        "temp": -7,
+        "icon": "🌦"
+      }
+    ]
+  },
+  "Екатеринбург": {
+    "temp": 6,
+    "description": "Пасмурно",
+    "icon": "☁",
+    "wind": 4,
+    "humidity": 85,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 8,
+        "icon": "☁"
+      },
+      {
+        "day": "Вт",
+        "temp": 4,
+        "icon": "☀"
+      },
+      {
+        "day": "Ср",
+        "temp": 7,
+        "icon": "☀"
+      },
+      {
+        "day": "Чт",
+        "temp": 3,
+        "icon": "☁"
+      },
+      {
+        "day": "Пт",
+        "temp": 6,
+        "icon": "🌧"
+      },
+      {
+        "day": "Сб",
+        "temp": 9,
+        "icon": "🌦"
+      },
+      {
+        "day": "Вс",
+        "temp": 5,
+        "icon": "❄"
+      }
+    ]
+  },
+  "Владивосток": {
+    "temp": 14,
+    "description": "Ветрено",
+    "icon": "💨",
+    "wind": 6,
+    "humidity": 52,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 17,
+        "icon": "☀"
+      },
+      {
+        "day": "Вт",
+        "temp": 13,
+        "icon": "☀"
+      },
+      {
+        "day": "Ср",
+        "temp": 16,
+        "icon": "☁"
+      },
+      {
+        "day": "Чт",
+        "temp": 12,
+        "icon": "🌧"
+      },
+      {
+        "day": "Пт",
+        "temp": 15,
+        "icon": "🌦"
+      },
+      {
+        "day": "Сб",
+        "temp": 11,
+        "icon": "❄"
+      },
+      {
+        "day": "Вс",
+        "temp": 14,
+        "icon": "☁"
+      }
+    ]
+  },
+  "Мурманск": {
+    "temp": -12,
+    "description": "Метель",
+    "icon": "🌨",
+    "wind": 8,
+    "humidity": 59,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": -15,
+        "icon": "☀"
+      },
+      {
+        "day": "Вт",
+        "temp": -12,
+        "icon": "☁"
+      },
+      {
+        "day": "Ср",
+        "temp": -9,
+        "icon": "🌧"
+      },
+      {
+        "day": "Чт",
+        "temp": -13,
+        "icon": "🌦"
+      },
+      {
+        "day": "Пт",
+        "temp": -10,
+        "icon": "❄"
+      },
+      {
+        "day": "Сб",
+        "temp": -14,
+        "icon": "☁"
+      },
+      {
+        "day": "Вс",
+        "temp": -11,
+        "icon": "☀"
+      }
+    ]
+  },
+  "Краснодар": {
+    "temp": 22,
+    "description": "Жарко",
+    "icon": "🔥",
+    "wind": 10,
+    "humidity": 66,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 20,
+        "icon": "☁"
+      },
+      {
+        "day": "Вт",
+        "temp": 23,
+        "icon": "🌧"
+      },
+      {
+        "day": "Ср",
+        "temp": 19,
+        "icon": "🌦"
+      },
+      {
+        "day": "Чт",
+        "temp": 22,
+        "icon": "❄"
+      },
+      {
+        "day": "Пт",
+        "temp": 25,
+        "icon": "☁"
+      },
+      {
+        "day": "Сб",
+        "temp": 21,
+        "icon": "☀"
+      },
+      {
+        "day": "Вс",
+        "temp": 24,
+        "icon": "☀"
+      }
+    ]
+  },
+  "Калининград": {
+    "temp": 10,
+    "description": "Гроза",
+    "icon": "⛈",
+    "wind": 3,
+    "humidity": 73,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 9,
+        "icon": "🌧"
+      },
+      {
+        "day": "Вт",
+        "temp": 12,
+        "icon": "🌦"
+      },
+      {
+        "day": "Ср",
+        "temp": 8,
+        "icon": "❄"
+      },
+      {
+        "day": "Чт",
+        "temp": 11,
+        "icon": "☁"
+      },
+      {
+        "day": "Пт",
+        "temp": 7,
+        "icon": "☀"
+      },
+      {
+        "day": "Сб",
+        "temp": 10,
+        "icon": "☀"
+      },
+      {
+        "day": "Вс",
+        "temp": 13,
+        "icon": "☁"
+      }
+    ]
+  },
+  "Нижний Новгород": {
+    "temp": 8,
+    "description": "Морось",
+    "icon": "🌦",
+    "wind": 5,
+    "humidity": 80,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": 8,
+        "icon": "🌦"
+      },
+      {
+        "day": "Вт",
+        "temp": 11,
+        "icon": "❄"
+      },
+      {
+        "day": "Ср",
+        "temp": 7,
+        "icon": "☁"
+      },
+      {
+        "day": "Чт",
+        "temp": 10,
+        "icon": "☀"
+      },
+      {
+        "day": "Пт",
+        "temp": 6,
+        "icon": "☀"
+      },
+      {
+        "day": "Сб",
+        "temp": 9,
+        "icon": "☁"
+      },
+      {
+        "day": "Вс",
+        "temp": 5,
+        "icon": "🌧"
+      }
+    ]
+  },
+  "Якутск": {
+    "temp": -25,
+    "description": "Морозно",
+    "icon": "🥶",
+    "wind": 7,
+    "humidity": 87,
+    "forecast": [
+      {
+        "day": "Пн",
+        "temp": -24,
+        "icon": "❄"
+      },
+      {
+        "day": "Вт",
+        "temp": -28,
+        "icon": "☁"
+      },
+      {
+        "day": "Ср",
+        "temp": -25,
+        "icon": "☀"
+      },
+      {
+        "day": "Чт",
+        "temp": -22,
+        "icon": "☀"
+      },
+      {
+        "day": "Пт",
+        "temp": -26,
+        "icon": "☁"
+      },
+      {
+        "day": "Сб",
+        "temp": -23,
+        "icon": "🌧"
+      },
+      {
+        "day": "Вс",
+        "temp": -27,
+        "icon": "🌦"
+      }
+    ]
+  }
+}
